@@ -1,6 +1,3 @@
-Evo spreman i pregledan `README.md` dokument prilagođen za objavu na GitHubu:
-
-```markdown
 # Phased Array Antenna Calculator & Matching Suite (`calc24.py`)
 
 Napredni Python alat namijenjen radioamaterskoj praksi za izračun, faziranje, prilagodbu impedancije i simulaciju performansi faznih antenskih nizova (Christman, End-Fire, Broadside) s posebnim naglaskom na 80-metarski pojas.
